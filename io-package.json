@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "tahoma",
-    "version": "0.10.4",
+    "version": "0.10.4-fork.1",
     "news": {
       "0.10.4": {
         "en": "Fixed: Warning resolved about invalid element in jsonConfig",
